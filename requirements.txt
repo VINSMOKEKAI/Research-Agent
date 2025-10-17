@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain_core
+langchain_openai
+duckduckgo-search
+beautifulsoup4
+requests
+langserve # Required to serve LangChain runnables
+fastapi # The core web framework
+uvicorn # The ASGI server to run FastAPI
+ddgs
+sse_starlette
+streamlit
